@@ -5,6 +5,5 @@ An intermediary service can facilitate a text-to-voice conversion to be sent to 
 ## Send SMS messages 
 1.create account in https://www.sms4india.com/api/v1/sendCampaign.
 
-
 2.get the API key and secret key.
 
